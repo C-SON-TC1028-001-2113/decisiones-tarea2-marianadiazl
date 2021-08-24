@@ -17,6 +17,6 @@ def main():
     if not a and not b :
         print('Respuesta incorrecta')
 
- if __name__=='__main__':
+if __name__=='__main__':
     main()
 
